@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Tiro+Devanagari+Hindi&display=swap');
+
+
+.container input:focus::placeholder {
+    color: transparent;
+}
+
+#inserirTarefa::placeholder {
+    opacity: 40%;
+    font-style: italic;
+}
+
+.tamanhoFonteth {
+    font-size: xx-large;
+    font-family: 'Tiro Devanagari Hindi', serif;
+}
+
+.tamanhoFontestb {
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
